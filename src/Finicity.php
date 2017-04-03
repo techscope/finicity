@@ -14,7 +14,7 @@ use Psr\Http\Message\ResponseInterface;
 
 /**
  * Class Laraficity
- * @package Techscope\Laraboard
+ * @package Techscope\Finicity
  */
 class Finicity
 {
